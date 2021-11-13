@@ -1,2 +1,5 @@
-tensorflow
-keras
+flask
+tensorflow==2.7
+keras==2.7
+PIL
+numpy

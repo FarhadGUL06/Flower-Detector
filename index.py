@@ -6,7 +6,6 @@ import tensorflow as tf
 import keras
 import tensorflow.keras as tfk
 import keras_preprocessing
-import matplotlib.pyplot as plt
 import PIL
 import numpy as np
 
